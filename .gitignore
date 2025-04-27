@@ -1,0 +1,8 @@
+# Sistem dosyalarını ve geçici dosyaları yok say
+$Recycle.Bin/
+Config.Msi/
+Documents and Settings/
+Thumbs.db
+.DS_Store
+node_modules/
+*.log
